@@ -280,11 +280,11 @@ header h1 {
 }
 
 #summary .user-answer.correct {
-  color: #054e37;
+  color: #106708;
 }
 
 #summary .user-answer.wrong {
-  color: #730b4b;
+  color: #b40909;
 }
 
 #summary .user-answer.skipped {
